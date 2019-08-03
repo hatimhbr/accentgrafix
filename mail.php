@@ -27,5 +27,5 @@
     }else{
         echo 'failed';
     }
-
+    header("Location: index.html");
 ?>
